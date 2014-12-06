@@ -8,7 +8,7 @@ It forms the collection of some not easily to come by Dutch NLP (Natural
 Language Processing, not neuro-linguistic programming as you will easily Google)
 
 
-== Entymology
+== Etymology
 
 Schevening (here often abbreviated as the shorter "sch" - for its easily the
 most characteristical compound of the name) is a Dutch linguistics library.
