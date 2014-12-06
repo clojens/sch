@@ -1,0 +1,67 @@
+= Scheveningen
+
+Schevening is a Dutch linguistics collection (aspire to be library) of code
+forms, draft texts, expressions and file or otherwise annotated references
+of information.
+
+It forms the collection of some not easily to come by Dutch NLP (Natural
+Language Processing, not neuro-linguistic programming as you will easily Google)
+
+
+== Entymology
+
+Schevening (here often abbreviated as the shorter "sch" - for its easily the
+most characteristical compound of the name) is a Dutch linguistics library.
+
+If there were a list of most characteristical and equally hard to pronounce
+sounds, the voiceless velar fricative /x/ (s+ch) which is commonly found in
+the http://fransdejonge.com/2009/12/voiced-velar-fricative-above-all/[Dutch language]
+and pronounced in English as in the Scottish word for lake: "Loch". Also some
+Scottish last names may be commonly found that correctly need to be pronounced
+as such, 'Maclachlan' being one example that comes to mind.
+
+Very few sounds actually get banned from languages but the this one sure did
+and from the Middle Ages onward has been slowly pushed out of modern day English
+where the sound is non-existent. The association of someone vomiting or choking
+is often made, some might call its nature 'aggressive' or 'harsh' depending
+on cultural aspects of listeners. One should add however that not all Dutch and
+especially not Belgians would prefer to pronounce the word "Scheveningen" with
+the voiceless velar fricative, but that is how most of us in the relevant parts
+(lol) of the country (read: Noord-Brabant and Holland) do.
+
+The name is a tribute to and named after the illustrious WWII shibboleth which,
+in turn, has its direct root in the name of the Dutch coastal town and harbor.
+Since the Germans (de moffen) aren't able to reproduce the sound, it became a
+quick and secure friend-or-foe identification between troops on the ground in
+the darkness, much as some Americans used the word 'lollapalooza' which is a
+rather difficult word to correctly pronounce the first times if you are not
+custom to the language on a intimate level.
+
+== Status
+
+Current status may not yet reflect the more encompassing nature of 'library'
+in my vocabulary of terms, as in the early stages "collection of scripts,
+snippets, ideas and draft texts" hardly together form a coherent whole, the
+intent is here to grow part of this theme in a library at some point intended
+for reuse as I venture deeper in the science of language. Often enough these
+files are the result of some studying of wikipedia articles, structure or any
+body of knowledge on a (meta) level in the respect of Clojure. It's both fun
+and educational but not too serious in terms of commiting to a hard deadline
+on production yet.
+
+
+
+This toolkit however, is named 
+renowned for its voiceless velar fricative /x/ (s+ch, pronounced as like Loch,
+as in Loch Ness)"
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2014 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
